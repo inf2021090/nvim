@@ -1,6 +1,6 @@
 require("kafter.plugins-setup")
 require("kafter.core.options")
-require("kafter.core.kafterkeymaps")
+require("kafter.core.keymaps")
 require("kafter.core.colorscheme")
 require("kafter.plugins.comment")
 require("kafter.plugins.nvim-tree")
